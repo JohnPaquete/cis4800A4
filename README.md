@@ -1,4 +1,4 @@
-# cis4800A2
+# cis4800A4
  
 An OpenGl program in C that displays a given ply model file.
 
